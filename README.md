@@ -1,4 +1,4 @@
-<img src="bart.gif", width=100, height=100>
+<img src="bart.gif">
 
 ### Here is What I'm working on !  👋
 

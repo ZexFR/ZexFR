@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Networking
-- 🤔 I’m looking for help with C#
+- 🤔 I’m looking for help with Game Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: ZexFR6#1625 - Discord
 - ⚡ Fun fact: I'm a young developer!
